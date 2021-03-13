@@ -1,8 +1,9 @@
 - 👋 Hello, I’m Kieran Knight :wave:
-- :movie_camera: Current Work: Pre-Production Developer / Pipeline Technical Director @Framestore :movie_camera:
-- :computer: Experienced In: Python, Javascript, Java, C++ and MEL :computer:
+- 🎥 Current Work: Pre-Production Developer / Pipeline Technical Director @Framestore 🎥
+- 💻 Experienced In: Python, Javascript, Java, C++ and MEL 💻
 - 👀 Interested in : Movies, Games, Rugby and Cycling 👀
 - 🌱 Currently learning : 3D Rendering 🌱
+- 📍 Curretly Living In : London 📍
 - 📫 Email : kieransknight@gmail.com 📫
 
 <!---
