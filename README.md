@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Kieran Knight :wave:
-- 🎥 Current Work: Pre-Production Developer / Pipeline Technical Director @Framestore 🎥
+- 🎥 Current Work: Pipeline Developer @TerritoryStudios 🎥
 - 💻 Experienced In: Python, Javascript, Java, C++ and MEL 💻
 - 👀 Interested in : Movies, Games, Rugby and Cycling 👀
 - 🌱 Currently learning : 3D Rendering 🌱
