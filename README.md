@@ -2,7 +2,7 @@
 - 🎥 Current Work: Pipeline Developer @TerritoryStudios 🎥
 - 💻 Experienced In: Python, Javascript, Java, C++ and MEL 💻
 - 👀 Interested in : Movies, Games, Rugby and Cycling 👀
-- 🌱 Currently learning : 3D Rendering 🌱
+- 🌱 Currently learning : Web Development, AWS 🌱
 - 📍 Curretly Living In : London 📍
 - 📫 Email : kieransknight@gmail.com 📫
 
