@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Kieran Knight :wave:
-- 🎥 Current Work: Pipeline Developer 🎥
+- 🎥 Current Work: Senior Pipeline Developer 🎥
 - 💻 Experienced In: Python, Javascript, Java, C++ and MEL 💻
 - 👀 Interested in : Movies, Games, Rugby and Cycling 👀
 - 🌱 Currently learning : Web Development, AWS 🌱
